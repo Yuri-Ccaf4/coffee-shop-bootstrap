@@ -1,4 +1,4 @@
-# Coffee-shop-bootstrap
+# Coffee Shop
 
 
 Projeto com temática de cafeteiria utilizando Bootstrap para Trilnha de CSS na Dio.
